@@ -1,5 +1,5 @@
 # A* Search Algorithm Visualiser App
-![Visualiser]([Pierpaolo-C/Astar/A_Algorithm%20Visualiser.png](https://github.com/Pierpaolo-C/Astar/blob/master/A_Algorithm%20Visualiser.png))
+![Visualiser](https://github.com/Pierpaolo-C/Astar/blob/master/A_Algorithm%20Visualiser.png))
 #### [Video Demo]  <URL HERE>
 ## Description:
 #### Welcome to my A* Algorithm visualizer app in Kivy! This is the final project for [CS50x Introduction to Computer Science](https://cs50.harvard.edu/x/2023/). This app allows you to visualize the pathfinding algorithm known as A* in action. Simply input the start and end nodes, add barriers, and run the A* algorithm to see the shortest path between the two nodes. The interface is easy to use and intuitive, allowing you to focus on exploring the algorithm and experimenting with different scenarios. Give it a try and see for yourself!
