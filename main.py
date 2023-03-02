@@ -15,7 +15,7 @@ from a_star import AStar
 class Grid(GridLayout):
     rows = 35
     cols = 35
-    speed = NumericProperty(0.0)
+    speed = NumericProperty(0.001)
     running = BooleanProperty(False)
 
     #  This method is called when an instance of the Grid class is created.
