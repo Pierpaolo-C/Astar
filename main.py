@@ -117,10 +117,6 @@ class Grid(GridLayout):
         elif keycode[1] == 'enter':
             self.reset()
         return True
-    
-    def on_menu_button_pressed(self):
-        print("BUTTON")
-        self.menu_widget.opacity = 0
 
 # This is the main class of the program, and is responsible for creating the Grid instance
 class AStarApp(App):
